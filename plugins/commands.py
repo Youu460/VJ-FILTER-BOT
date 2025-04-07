@@ -46,7 +46,7 @@ async def start(client, message):
                 InlineKeyboardButton('📌𝘼𝘿𝘿 𝙏𝙊 𝙂𝙍𝙊𝙐𝙋 📌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
+                InlineKeyboardButton('📺 𝙈𝙊𝙑𝙄𝙀 𝙂𝙍𝙊𝙐𝙋📺', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
